@@ -1,0 +1,10 @@
+Nombre, inicial y apellido:
+Seguro Social:
+Fecha de nacimiento:
+Numero de expediente:
+DirecciÛn:
+Plan MÈdico:
+Fecha de visita:
+DiagnÛstico:
+Receta:
+Fecha de siguiente visita:
